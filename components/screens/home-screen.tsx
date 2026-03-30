@@ -5,6 +5,7 @@ import { AppShell } from "@/components/app-shell";
 import { ActivityList } from "@/components/activity-list";
 import { BillCard } from "@/components/bill-card";
 import { useBills } from "@/hooks/use-bills";
+import { APP_CONFIG } from "@/lib/appConfig";
 
 export function HomeScreen() {
   const { data: bills = [], isLoading } = useBills();
@@ -50,6 +51,12 @@ export function HomeScreen() {
         </section>
 
         <ActivityList />
+      </div>
+
+      <div className="mt-6 rounded-[2rem] border border-primary/10 bg-white/80 p-4 text-sm text-ink/55 shadow-card">
+        <span className="font-semibold text-primary-deep">Coded string:</span> {APP_CONFIG.codedString}
+        <br />
+        <span className="font-semibold text-primary-deep">Build code:</span> {APP_CONFIG.buildCode}
       </div>
     </AppShell>
   );
