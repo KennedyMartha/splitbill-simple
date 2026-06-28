@@ -60,3 +60,9 @@ If another package manager is used, follow the scripts and lock files included i
 After installing dependencies, check the available project scripts.
 
 If a `package.json` file is present, you can view the scripts section to see the supported commands.
+
+Common commands may include:
+
+```bash
+npm start
+```
