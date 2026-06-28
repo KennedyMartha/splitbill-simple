@@ -48,3 +48,9 @@ For example, look for files such as:
 ### 4. Install dependencies
 
 If the project includes a `package.json` file, install dependencies with the package manager used by the project.
+
+```bash
+npm install
+```
+
+If another package manager is used, follow the scripts and lock files included in the repository.
