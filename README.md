@@ -100,3 +100,8 @@ Possible documentation additions:
 Contributions are welcome through the repository.
 
 Before submitting changes:
+
+1. Review the existing project structure.
+2. Make a focused update.
+3. Test the project locally when possible.
+4. Document any new behavior clearly.
