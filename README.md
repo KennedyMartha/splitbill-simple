@@ -37,3 +37,9 @@ cd splitbill-simple
 ### 3. Review the project files
 
 Check the repository contents to identify the available scripts, source files, and dependency files.
+
+For example, look for files such as:
+
+- `package.json`
+- `README.md`
+- source folders
