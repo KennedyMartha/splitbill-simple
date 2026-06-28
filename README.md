@@ -88,3 +88,9 @@ Use the command that matches the scripts defined in the project.
 Future updates may include more detailed setup instructions, screenshots, examples, or a description of the application flow.
 
 Possible documentation additions:
+
+- How to add a shared bill.
+- How totals are divided.
+- How rounding is handled.
+- How to run tests, if tests are added.
+- How to build the project for deployment, if a build step exists.
