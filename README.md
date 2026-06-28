@@ -71,3 +71,8 @@ or:
 
 ```bash
 npm run dev
+```
+
+Use the command that matches the scripts defined in the project.
+
+## Development Notes
