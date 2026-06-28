@@ -105,3 +105,9 @@ Before submitting changes:
 2. Make a focused update.
 3. Test the project locally when possible.
 4. Document any new behavior clearly.
+
+## Repository
+
+The source code is available at:
+
+<https://github.com/KennedyMartha/splitbill-simple.git>
