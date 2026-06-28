@@ -32,3 +32,8 @@ git clone https://github.com/KennedyMartha/splitbill-simple.git
 
 ```bash
 cd splitbill-simple
+```
+
+### 3. Review the project files
+
+Check the repository contents to identify the available scripts, source files, and dependency files.
