@@ -66,3 +66,8 @@ Common commands may include:
 ```bash
 npm start
 ```
+
+or:
+
+```bash
+npm run dev
