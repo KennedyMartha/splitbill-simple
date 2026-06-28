@@ -15,3 +15,9 @@ Use it as a starting point for recording shared costs, dividing totals, and revi
 - Simple project structure for a bill-splitting application.
 - Focused purpose: splitting shared expenses.
 - Suitable for learning, experimenting, or extending into a larger expense-sharing tool.
+- Easy to clone and run locally once the project dependencies are installed.
+- Clear repository location for collaboration and updates.
+
+## Getting Started
+
+Follow the steps below to set up the project on your local machine.
