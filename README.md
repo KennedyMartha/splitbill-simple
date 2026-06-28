@@ -82,3 +82,9 @@ Use the command that matches the scripts defined in the project.
 - Add examples if new bill-splitting behavior is introduced.
 - Keep calculation logic simple and well documented.
 - Prefer clear names for people, bills, totals, and shares.
+
+## Suggested Improvements
+
+Future updates may include more detailed setup instructions, screenshots, examples, or a description of the application flow.
+
+Possible documentation additions:
