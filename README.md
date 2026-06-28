@@ -26,3 +26,9 @@ Follow the steps below to set up the project on your local machine.
 
 ```bash
 git clone https://github.com/KennedyMartha/splitbill-simple.git
+```
+
+### 2. Open the project folder
+
+```bash
+cd splitbill-simple
