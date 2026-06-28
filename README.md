@@ -76,3 +76,9 @@ npm run dev
 Use the command that matches the scripts defined in the project.
 
 ## Development Notes
+
+- Keep changes focused and easy to review.
+- Update this README when setup steps or usage instructions change.
+- Add examples if new bill-splitting behavior is introduced.
+- Keep calculation logic simple and well documented.
+- Prefer clear names for people, bills, totals, and shares.
