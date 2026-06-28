@@ -94,3 +94,9 @@ Possible documentation additions:
 - How rounding is handled.
 - How to run tests, if tests are added.
 - How to build the project for deployment, if a build step exists.
+
+## Contributing
+
+Contributions are welcome through the repository.
+
+Before submitting changes:
