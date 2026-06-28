@@ -21,3 +21,8 @@ Use it as a starting point for recording shared costs, dividing totals, and revi
 ## Getting Started
 
 Follow the steps below to set up the project on your local machine.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/KennedyMartha/splitbill-simple.git
