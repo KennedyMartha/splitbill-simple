@@ -43,3 +43,8 @@ For example, look for files such as:
 - `package.json`
 - `README.md`
 - source folders
+- configuration files
+
+### 4. Install dependencies
+
+If the project includes a `package.json` file, install dependencies with the package manager used by the project.
